@@ -1,5 +1,3 @@
-Claro. Para un README de GitHub queda mucho mejor si tiene estructura, iconos, separación visual y una presentación más profesional. Puedes usar algo como esto:
-
 🚗 Sistema Integral de Gestión de Parqueadero
 
 https://img.shields.io/badge/Python-Django-green?style=for-the-badge&logo=python https://img.shields.io/badge/Frontend-HeroUI-blue?style=for-the-badge https://img.shields.io/badge/Database-SQL-orange?style=for-the-badge https://img.shields.io/badge/Status-En%20Desarrollo-yellow?style=for-the-badge
